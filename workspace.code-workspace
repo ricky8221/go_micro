@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "project-docker"
+		},
+		{
+			"path": "authentication-service"
 		}
 	]
 }
